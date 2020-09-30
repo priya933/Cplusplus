@@ -1,0 +1,13 @@
+include<iostream>
+using namespace std;
+int main ()
+//starting point of any program
+{
+int base,height,area;
+cout<<"enter a base of a triangle";
+cin>>base;
+cout<<"enter a height of a triangle;
+cin>>height;
+area=0.5*base*height;
+cout<<area;
+}
